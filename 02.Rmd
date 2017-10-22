@@ -6,15 +6,21 @@ legal, intake, NLP
 
 ## Legal Intake – A drag on providing services
 Everyday legal services specialists field nearly a hundred intake messages. They must decide which messages represent actionable cases and which don’t. The process requires a lot of work from determining the relevant area of law, to identifying legal elements, and finally assessing whether the elements are met. The longer the process takes, the fewer people are able to receive legal services they need to retain their benefits, immigration status, or even homes.
+
 Intake Bot leverages natural language processing to automatically handle intake so that legal service organizations can focus their time on helping people.
 
 
 ## The Intake Bot Solution
 Intake Bot is built upon years of intake data from legal services across the country. Past cases are labeled by category and detail the back and forth conversations regarding the merits of the case. 
+
 When new intake comes in, Intake Bot mines the intake message while comparing it with prior intakes. In the first processing step, the case category is determined. Then, a cross reference to WestLaw/LexisNexus is used to lookup applicable, current caselaw and regulations and extract the elements required for a client to get the outcome they want. 
+
 Intake Bot then uses the contents of the message to place the intake into one of three categories: meritorious, further communication, or unfruitful. 
+
 Meritorious cases have a clear legal category and meet all the required elements. They are immediately passed on to the appropriate division of the legal services organization with the case outlined by the elements with a summary of the information contained in the intake applicable to each element.
+
 Further communication cases also have a defined legal category, but could use additional clarifying information to determine how promising that are. In this case, Intake Bot can respond to the intake submitter with an outline of what it believes the legal issue to be and where it requires more information. When they respond, Intake Bot will repeat the process.
+
 Unfruitful cases do not have clearly defined goal or legal issue. Here, Intake Bot would inform the submitter that their issue did not match a standard legal issue and could point them to more general help in the area if applicable.
 
 
