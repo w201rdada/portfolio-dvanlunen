@@ -1,25 +1,22 @@
-# My second cool idea {#slug-two}
+# Intake Bot {#Automatic Legal Intake}
 
 #### Keywords
 
-yaba, daba, do
+legal, intake, NLP 
 
-## A beginning.
-
-Nulla  sint  art party ex, mlkshk disrupt selvage 90's.  Umami sed slow-carb, fugiat  dolore nihil glossier magna migas actually farm-to-table microdosing keytar fixie.  IPhone fashion axe pinterest, cardigan street art quinoa banh mi bitters mollit  commodo pok pok culpa  delectus ut air plant.  Offal edison bulb ex, celiac 8-bit vaporware polaroid thundercats flannel kickstarter labore.  Activated charcoal portland af tousled microdosing woke, in  thundercats consectetur gluten-free hammock duis  next level DIY.  Keffiyeh commodo velit  mollit  brunch, cronut edison bulb banh mi swag stumptown crucifix hell of.  Brunch williamsburg try-hard, seitan literally vexillologist venmo DIY pariatur nesciunt master cleanse XOXO.
-
-## A middle.
-
-8-bit synth irony nisi wolf, street art dreamcatcher flannel placeat selvage health goth sriracha.  Glossier labore ex venmo, cillum  live-edge jianbing everyday carry af cray laborum incididunt eiusmod jean shorts.  Normcore slow-carb lyft letterpress, beard tilde art party.  Poke marfa incididunt tempor duis.  Iceland fam ex beard, activated charcoal vaporware nesciunt lyft cronut four dollar toast irony.  Officia  stumptown voluptate  unicorn culpa  bushwick.  Mollit  vero af marfa deserunt  flexitarian.
+## Legal Intake – A drag on providing services
+Everyday legal services specialists field nearly a hundred intake messages. They must decide which messages represent actionable cases and which don’t. The process requires a lot of work from determining the relevant area of law, to identifying legal elements, and finally assessing whether the elements are met. The longer the process takes, the fewer people are able to receive legal services they need to retain their benefits, immigration status, or even homes.
+Intake Bot leverages natural language processing to automatically handle intake so that legal service organizations can focus their time on helping people.
 
 
-```{r experimental,echo=F,results='asis',eval=F}
-data.table::fread('https://raw.githubusercontent.com/UCB-MIDS/experiments-causality/master/data/GerberGreenBook_Chapter3_Donations.csv?token=ABNmuX-Q14rzQ4teItDenc9L5Wo2flncks5ZL5qEwA%3D%3D') %>% stargazer::stargazer(type = 'html',title = 'Something from W241 Experiments and Causality')
-```
+## The Intake Bot Solution
+Intake Bot is built upon years of intake data from legal services across the country. Past cases are labeled by category and detail the back and forth conversations regarding the merits of the case. 
+When new intake comes in, Intake Bot mines the intake message while comparing it with prior intakes. In the first processing step, the case category is determined. Then, a cross reference to WestLaw/LexisNexus is used to lookup applicable, current caselaw and regulations and extract the elements required for a client to get the outcome they want. 
+Intake Bot then uses the contents of the message to place the intake into one of three categories: meritorious, further communication, or unfruitful. 
+Meritorious cases have a clear legal category and meet all the required elements. They are immediately passed on to the appropriate division of the legal services organization with the case outlined by the elements with a summary of the information contained in the intake applicable to each element.
+Further communication cases also have a defined legal category, but could use additional clarifying information to determine how promising that are. In this case, Intake Bot can respond to the intake submitter with an outline of what it believes the legal issue to be and where it requires more information. When they respond, Intake Bot will repeat the process.
+Unfruitful cases do not have clearly defined goal or legal issue. Here, Intake Bot would inform the submitter that their issue did not match a standard legal issue and could point them to more general help in the area if applicable.
 
 
-Laborum williamsburg sunt whatever, DIY reprehenderit  retro vaporware id  hella flannel sartorial vero fugiat  before they sold out.  Copper mug salvia keffiyeh, neutra nostrud iceland keytar kogi church-key quinoa ramps mlkshk.  Seitan mollit  3 wolf moon, forage shabby chic cillum  church-key tofu exercitation aliquip.  Church-key distillery flexitarian meh incididunt retro, ugh wolf selvage hashtag.  Bicycle rights 90's officia  vape.  Listicle post-ironic vape ex.  Gluten-free lomo tumeric, yuccie everyday carry tempor put a bird on it knausgaard nisi ugh skateboard VHS.
-
-## An end.
-
-Kombucha pok pok lomo, forage bicycle rights paleo kickstarter literally.  Hot chicken dolor  vegan accusamus master cleanse tousled, yuccie cliche retro aesthetic bushwick actually.  Ennui viral VHS pitchfork pop-up cornhole, nihil quinoa scenester gentrify occaecat  YOLO anim.  Umami copper mug live-edge, air plant meditation bushwick chartreuse adipisicing tousled.  Art party affogato chicharrones, photo booth enim swag vero meh seitan +1 activated charcoal nihil.  Etsy gluten-free authentic mixtape.  Shabby chic duis  90's pop-up pinterest, lumbersexual mollit  cillum.
+## Fixing Intake Matters
+Fielding a single intake can take up to 20 days of back and forth communication before it is determined to be a case worth pursuing. This triaging is valuable time that could be spent advocating for clients with meritorious cases. Intake Bot frees this time by automatically summarizing key elements and requesting required information. Though there may be some unclear cases that require some review by a specialist, Intake Bot will make sure the best cases make it to the front of the line so your organization can have more success faster.
