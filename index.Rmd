@@ -15,32 +15,33 @@ library(magrittr)
 # Welcome!
 
 <!-- You can include images saved within your repo... -->
-```{r hello-world,echo=FALSE,fig.cap='Hello World!',fig.align='center',out.width='50%'}
-knitr::include_graphics('img/hello-world.png')
+```{r hello-world,echo=FALSE,fig.align='center',out.width='50%'}
+knitr::include_graphics('img/dzvl.JPG')
 ```
 
-Pariatur sapiente anim  waistcoat bicycle rights.  Cupidatat  chambray portland direct trade, XOXO odio gochujang banjo deep v sustainable.  Sint  jianbing DIY humblebrag heirloom exercitation ennui fanny pack.  Dolore small batch lomo, godard slow-carb odio exercitation organic cred cray la croix vinyl nisi hot chicken.  Gentrify schlitz stumptown fam, cray hoodie excepteur  hammock kinfolk 8-bit hell of plaid.  Helvetica hashtag pinterest typewriter, tbh vape vero farm-to-table.  Laboris  bitters aliqua small batch.
+Welcome! This page lists project ideas
 
-<!-- Below this line is just examples of how you can embed video from Google Drive. First you have to enable sharing, then just get the object ID which is that long string between d/ and /preview and will also be appended to any sharing link you generate for your video. -->
-<p>
+<!-- Below this line is just examples of how you can embed video from Google Drive. First you have to enable sharing, then just get the object ID which is that long string between d/ and /preview and will also be appended to any sharing link you generate for your video. 
 ```{r hello-benji,echo=FALSE,fig.cap='Hello Benjamin Franklin!',fig.align='center'}
 knitr::include_url('https://drive.google.com/file/d/0B6bobRDQR96iVEV3SXJJal9CczQ/preview')
 ```
+-->
 
-### Abstract of my first cool idea
+<p>
+### Pin-Perfect Wedding
 
-Pop-up occupy labore, pug tofu nisi franzen YOLO tilde tumblr deep v nulla  aliqua.  Sapiente stumptown et lo-fi art party.  Eu  snackwave glossier, poutine crucifix tattooed labore thundercats hexagon tempor brunch single-origin coffee synth four loko.  Velit  beard ex etsy migas, tempor hashtag.  Live-edge fap yr food truck, heirloom snackwave tempor laborum green juice man bun selvage sriracha gastropub.  Before they sold out incididunt godard cupidatat  exercitation street art health goth ullamco, flannel dolore kombucha bespoke.  Pok pok tilde mixtape, magna swag iceland tote bag gentrify dolor  delectus.
+Personalized vendor recommendations using your Pinterest boards.
 
-### Abstract of my second cool idea
+### Intake Bot
 
-Vero dolor  franzen letterpress.  Taxidermy pork belly messenger bag, deserunt  aliqua irure  photo booth neutra banh mi fanny pack.  Butcher fam heirloom marfa.  Tilde reprehenderit  snackwave tempor.  Qui  pop-up kitsch dolor.  Crucifix consectetur culpa  lumbersexual salvia exercitation small batch.  Pop-up duis  id  semiotics before they sold out kombucha raclette, twee selvage pitchfork.
+Automatically highlight promising legal intake and return unfruitful cases for more information.
   
-### Abstract of my third cool idea
-
-Activated charcoal succulents ex, pop-up minim neutra pork belly nulla  helvetica semiotics dolor  magna jianbing.  Asymmetrical franzen humblebrag, venmo kale chips offal velit  distillery blog copper mug exercitation pariatur helvetica tacos officia.  Trust fund etsy commodo umami excepteur  lo-fi, locavore humblebrag dolore artisan cliche sustainable chartreuse.  Mustache pork belly kitsch blue bottle jean shorts, intelligentsia hammock consequat hoodie heirloom single-origin coffee.  Godard nulla  yr, cray taxidermy vice pug hashtag ad eiusmod subway tile flexitarian.  Tofu magna laboris  thundercats neutra, mumblecore truffaut small batch hashtag chillwave listicle ramps eiusmod selfies meh.  Bushwick butcher cupidatat  hella organic.
 
 ## About the author
 
-Sustainable aute  gochujang, messenger bag vero dolor  blog pork belly knausgaard.  Tacos brooklyn lumbersexual keytar, literally chambray iceland street art pickled master cleanse in  roof party activated charcoal jean shorts craft beer.  Semiotics tempor enamel pin nesciunt, aliquip live-edge keytar yr street art waistcoat cray everyday carry eu  sint  pariatur.  Aliquip anim  godard leggings, flexitarian direct trade  humblebrag.  Non  ennui fashion axe nesciunt, poke af kinfolk direct trade  franzen banh mi.  Craft beer laborum crucifix pork belly retro, health goth tacos est  godard four dollar toast tousled bushwick exercitation nihil normcore.  Semiotics meggings pok pok church-key whatever art party, truffaut franzen poke.
+Dan is a Data Scientist and Project Manager at Alivia Technology. Dan graduated Phi Beta Kappa, Sigma Xi, and Magna Cum Laude from Brown University with a degree in applied mathematics. At Brown, he teamed up with researchers at Merck to analyze fMRI and DTI image time series. He won the Rohn Truell prize for best applied math thesis in his class.
+
+After college, Dan joined Teach For America and taught at one of the lowest performing middle schools in all of California. He was nominated for the LMU Outstanding Urban Teacher Award and the Sue Lehmann Award. Dan then worked at the MA Attorney General’s Office in the antitrust division. His data analytics helped provide the evidence to prevent a hospital merger that was predicted to cost MA taxpayers $26M a year. While working at the state Attorney General’s Office, Dan applied and got into Harvard Law School. However, he believed he would be able to have a larger positive impact by focusing on data analytics and decided to instead work as a litigation consultant with a focus on healthcare. The cases he analyzed included a multi-billion dollar pharmacy merger and an analysis of outpatient surgery center claims focused on overbilling representing Aetna, Cigna, BCBS, and United. Dan now works at Alivia Technology where he continues to use his expertise to analyze health data.
+
 
 *Updated: `r Sys.Date()`*
