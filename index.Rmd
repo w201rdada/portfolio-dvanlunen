@@ -1,6 +1,6 @@
 ---
 title: "W201 Portfolio"
-author: "Oski Bear"
+author: "Dan Van (DVL)"
 date: "MIDS Summer 2017"
 site: bookdown::bookdown_site
 documentclass: book
