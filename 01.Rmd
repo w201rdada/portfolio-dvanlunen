@@ -1,21 +1,21 @@
 # Pin-Perfect Wedding {#Personalized vendor recommendations using Pinterest boards.}
 
-#### Keywords
+#### Keywords {-}
 
 wedding, recommendations, pinterest, personalized
 
-## The wedding of your dreams, without the stress
+## The wedding of your dreams, without the stress {-}
 
-Wedding services are a $76 billion industry, and it is a time-intensive and difficult market to navigate. Current popular wedding planning platforms, such as Wedding Wire and The Knot rely heavily on user ratings and reviews. Not only are these types of recommendations impersonal, they require users to do significant research clicking through dozens of vendor options, browsing pop-up images, and filtering through customer reviews in the search to find the right vendor. Those with the time to do this research can get bogged down in the details, or suffer from decision fatigue, which detracts from the joy and excitement of the upcoming marriage. On the other hand, busier individuals often resort to expensive wedding planners. 
+Wedding services are a $76 billion industry\footnote{IBISWorld https://www.ibisworld.com/industry-trends/market-research-reports/other-services-except-public-administration/repair-maintenance/wedding-services.html}, and it is a time-intensive and difficult market to navigate. Current popular wedding planning platforms, such as Wedding Wire and The Knot rely heavily on user ratings and reviews. Not only are these types of recommendations impersonal, they require users to do significant research clicking through dozens of vendor options, browsing pop-up images, and filtering through customer reviews in the search to find the right vendor. Those with the time to do this research can get bogged down in the details, or suffer from decision fatigue, which detracts from the joy and excitement of the upcoming marriage. On the other hand, busier individuals often resort to expensive wedding planners. 
 
 Pin-Perfect Wedding is for the brides and grooms who have a good sense of what they want in a wedding, but who want to avoid the stress of sifting through irrelevant vendors. 
 
-## Pin-Personalized
+## Pin-Personalized {-}
 
 Every year, 40 million people use Pinterest to find inspiration for their weddings by looking through and pinning images from other users. Pinterest allows wedding planning couples to save visual wish lists and show family, friends, and vendors what they want.  Combined these wish lists are a rich dataset of 900 million Pins a year about weddings with pictures, tags, and social connections. Pin-Perfect Wedding leverages these Pinterest boards to learn a couple’s vision.
 
 With preferences identified, Pin-Perfect wedding will search through data scrapped from online directories to find vendors whose pictures and descriptions resonate with a couple’s dream. Be it rustic, contemporary, or Disney-themed, Pin-Perfect Wedding can analyze Pins that a couple already likes, and pair them with vendors who can deliver. Not only will these recommendations save dozens of hours, they will get couples more excited about their big day by showing them vendors that can give them what they want.
 
-## Your wedding, Your Recommendations
+## Your wedding, Your Recommendations {-}
 
-Vendor recommendations should be more than sorting by 4+ stars and combing through the same reviews as everyone else. If you know what you want, you shouldn’t have to look through vendors that can’t provide or hire a planner to do it for you. Pin-Perfect Wedding’s personalized recommendations will make looking through vendors a lot more fun and easy. Our recommendations can’t help make seating arrangements for your warring cousins and you will still need to read reviews to be sure a vendor is real, but they will get you to your dream wedding faster.
+Vendor recommendations should be more than sorting by 4+ stars and combing through the same reviews as everyone else. If you know what you want, you shouldn’t have to look through inappropriate vendors or hire a planner to do it for you. Pin-Perfect Wedding’s personalized recommendations will make looking through vendors a lot more fun and easy. Our recommendations can’t help make seating arrangements for your warring cousins and you will still need to read reviews to be sure a vendor is real, but they will get you to your dream wedding faster.
