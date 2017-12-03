@@ -4,6 +4,11 @@
 
 wedding, recommendations, pinterest, personalized
 
+
+```{r vid2,echo=FALSE,fig.cap='Why Pin-Perfect Wedding?',fig.align='center'}
+knitr::include_url('https://drive.google.com/file/d/1JW4kHGLETVNHwX-h0sAeRWAg86ZHvZ6X/preview')
+```
+
 ## The wedding of your dreams, without the stress {-}
 
 Wedding services are a $76 billion industry<sup>[1]</sup>, and it is a time-intensive and difficult market to navigate. Current popular wedding planning platforms, such as Wedding Wire and The Knot rely heavily on user ratings and reviews. Not only are these types of recommendations impersonal, they require users to do significant research clicking through dozens of vendor options, browsing pop-up images, and filtering through customer reviews in the search to find the right vendor. Those with the time to do this research can get bogged down in the details, or suffer from decision fatigue, which detracts from the joy and excitement of the upcoming marriage. On the other hand, busier individuals often resort to expensive wedding planners. 
